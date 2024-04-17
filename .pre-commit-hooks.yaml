@@ -1,0 +1,5 @@
+-   id: git-cliff
+    name: 'git-cliff'
+    entry: cliff.sh
+    language: 'script'
+    description: "Runs `git-cliff`, requires git-cliff to be installed."
